@@ -38,7 +38,7 @@ Day Time: A conditional field to categorize crime times into Morning, Afternoon,
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/6f32647a-2ae8-40da-b0c1-c0219435abc9" />
 
 
-Crime Latest Year: A calculation to isolate data from the most recent year in the dataset.
+Crime Analysis Summary Dashboard.
 <img width="795" height="635" alt="image" src="https://github.com/user-attachments/assets/d793f297-0ef4-4b79-8ba6-a0d472992f97" />
 
 
