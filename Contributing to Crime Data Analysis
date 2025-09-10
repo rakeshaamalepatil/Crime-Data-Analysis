@@ -1,0 +1,24 @@
+Contributing to Crime Data Analysis
+Thank you for your interest in contributing to this project! Here are a few guidelines to follow.
+
+How to Contribute
+We welcome contributions of all kinds, including:
+
+Reporting Bugs: If you find a bug in the analysis or a problem with a dashboard, please open a new issue.
+
+Suggesting Enhancements: If you have an idea for a new dashboard, a different type of analysis, or a way to improve the project, feel free to open a new issue to discuss it.
+
+Submitting Pull Requests: If you want to contribute code or documentation changes, please submit a pull request.
+
+Submitting a Pull Request
+Before submitting a pull request, please make sure you:
+
+Fork the repository and create your branch from main.
+
+Write a clear, concise commit message explaining your changes.
+
+Ensure your changes don't break any existing functionality.
+
+Update the README.md if your changes affect the project's features.
+
+We'll review your pull request as soon as possible and provide feedback.
