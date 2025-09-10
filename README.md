@@ -31,10 +31,17 @@ Tableau Calculations
 The analysis required custom calculated fields to derive specific insights. Key calculations include:
 
 Arrest Rate: A formula to determine the percentage of crimes that resulted in an arrest.
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/1c8cc32f-f32c-4286-bce7-e2d7748685e0" />
+
 
 Day Time: A conditional field to categorize crime times into Morning, Afternoon, Evening, and Night.
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/6f32647a-2ae8-40da-b0c1-c0219435abc9" />
+
 
 Crime Latest Year: A calculation to isolate data from the most recent year in the dataset.
+<img width="795" height="635" alt="image" src="https://github.com/user-attachments/assets/d793f297-0ef4-4b79-8ba6-a0d472992f97" />
+
+
 
 How to View the Project
 To view the interactive dashboards, please [Insert Link to Tableau Public Profile or Project].
